@@ -3,6 +3,8 @@
 ---
 This repo is Laravel package to extend filtering functionality in Laravel projects. If you have a list with items and you use spatie/laravel-query-builder to filter them, this package could be useful for you. 
 
+This package based on [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) use case. We express our appreciation to Spatie for inspiring us, sharing valuable experiences, and providing exceptional Laravel packages that we not only extensively use but also wholeheartedly recommend. 
+
 ## QueryBuilder classes
 
 In this package you may find some custom part of Query Builder to extend filtering logic.
@@ -243,7 +245,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 - [Labro Dev](https://github.com/labrodev)
 
-We are appriciate [Spatie](https://github.com/spatie) for inspiration, sharing experiences and their beaufiul Laravel packages that we are widely use and highly recommend.
+- [Spatie](https://github.com/spatie)
 
 ## License
 
