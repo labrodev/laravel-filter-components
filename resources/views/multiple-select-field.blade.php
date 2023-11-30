@@ -6,7 +6,7 @@
         <select name="filter[{{ $field }}][]"
             multiple
             class="form-control">
-            <option>{{ __('None') }}</option>
+            <option value>{{ __('None') }}</option>
             @foreach ($options as $optionValue => $option)
                 <option value="{{ $optionValue }}"
                     {{ $optionValue == $currentSearchQuery ? 'selected' : ''}}>
@@ -16,4 +16,3 @@
         </select>
     </div>
 </div>
-   
