@@ -23,7 +23,7 @@ documented in this file.
 * IsNotNullFilter
 * WhereInFilter
 
-## [1.01] - 2023-11-30
+## [1.0.1] - 2023-11-30
 
 ### Added
 
